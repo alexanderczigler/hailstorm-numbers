@@ -27,3 +27,5 @@ ilix@undying:~/Source/hailstone-numbers$ node index.js 15
 |         17 |          1 |
 |------------|------------|
 ```
+
+https://en.wikipedia.org/wiki/Collatz_conjecture
